@@ -1,0 +1,10 @@
+* {
+  background-color: coral;
+}
+
+a {
+  display: grid;
+  justify-content: center;
+  margin: 25%;
+  font-size: xx-large;
+}

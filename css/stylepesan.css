@@ -1,0 +1,17 @@
+* {
+  background-color: bisque;
+}
+a {
+  display: grid;
+  justify-content: center;
+  margin: 25%;
+  font-size: xx-large;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin: 0px 30% 0px;
+}

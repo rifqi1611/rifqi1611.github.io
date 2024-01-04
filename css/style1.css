@@ -1,0 +1,10 @@
+* {
+  background-color: rgb(255, 255, 255);
+}
+
+a {
+  display: grid;
+  justify-content: center;
+  margin: 5%;
+  font-size: xx-large;
+}

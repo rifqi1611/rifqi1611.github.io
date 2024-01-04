@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style1.css">
+    <title>Halaman Utama</title>
+</head>
+<body>
+    <a href="salah.php">CIEEEE KETIPU AHAHAHA.... CANDA CARI ADA SESUATU DISINI</a>
+    <a href="pesan.php"><img src="../video/pat.gif"></img></a>
+</body>
+</html>
